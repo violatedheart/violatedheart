@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/violatedheart/procscape"><img src="https://img.shields.io/badge/PROCSCAPE-explore-8f83e8?style=for-the-badge&labelColor=191827" alt="Explore ProcScape"></a>
-  <a href="https://github.com/violatedheart/algotype"><img src="https://img.shields.io/badge/ALGOTYPE-try%20the%20TUI-79d7b4?style=for-the-badge&labelColor=191827" alt="Explore Algotype"></a>
-  <a href="https://github.com/violatedheart/Keyguard"><img src="https://img.shields.io/badge/KEYGUARD-in%20progress-c4b8ff?style=for-the-badge&labelColor=191827" alt="Keyguard in progress"></a>
+  <a href="https://github.com/violatedheart/procscape"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/main/assets/procscape.svg" alt="Explore ProcScape"></a>
+  <a href="https://github.com/violatedheart/algotype"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/main/assets/algotype.svg" alt="Explore Algotype"></a>
+  <a href="https://github.com/violatedheart/Keyguard"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/main/assets/keyguard.svg" alt="Keyguard in progress"></a>
 </p>
 
 <p align="center">
