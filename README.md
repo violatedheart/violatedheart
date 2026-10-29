@@ -1,5 +1,8 @@
+Warning: truncated output (original token count: 508)
+Total output lines: 55
+
 <p align="center">
-  <img src="profile-banner.png" alt="V I O L A T I O N over a crimson winter landscape with a white-haired figure" width="100%">
+  <img src="profile-banner.jpg" alt="V I O L A T I O N over a crimson winter landscape with a white-haired figure" width="100%">
 </p>
 
 <p align="center">
@@ -16,7 +19,7 @@
 <p align="center">
   <a href="#about">about</a> ·
   <a href="#selected-work">selected work</a> ·
-  <a href="#currently-exploring">currently exploring</a> ·
+  <a href="#currently-…8 tokens truncated…/a> ·
   <a href="#contact">contact</a>
 </p>
 
@@ -47,6 +50,7 @@ Rust · Linux desktop tooling · terminal UI · defensive security
 ## Contact
 
 Questions or ideas? Open an issue on one of the projects above.
+
 
 
 
