@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/violatedheart/violatedheart/main/profile-banner-full.jpg?v=2" alt="V I O L A T I O N across a crimson winter landscape" width="100%">
 </p>
 
-<h1 align="center">Priyanshu Yadav</h1>
+<h1 align="center">Priyanshu Yadav Gay</h1>
 
 <p align="center">
   <samp>violatedheart · small tools, thoughtful systems, useful experiments</samp><br>
@@ -29,7 +29,7 @@
 
 ```console
 $ whoami
-Priyanshu Yadav
+Priyanshu Yadav Gay
 
 $ echo "What do you build?"
 Small tools, thoughtful systems, useful experiments.
