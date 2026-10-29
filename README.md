@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/violatedheart/violatedheart/main/profile-banner.jpg" alt="V I O L A T I O N over a crimson winter landscape with a white-haired figure" width="100%">
+  <img src="https://raw.githubusercontent.com/violatedheart/violatedheart/main/profile-banner-full.jpg" alt="V I O L A T I O N over a crimson winter landscape with a white-haired figure" width="100%">
 </p>
 
 <p align="center">
