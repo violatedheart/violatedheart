@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/violatedheart/procscape"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/f5c9756ecb25c933a6d86fbeb29ffb48c2996699/assets/procscape.svg" alt="Explore ProcScape"></a>
-  <a href="https://github.com/violatedheart/algotype"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/f5c9756ecb25c933a6d86fbeb29ffb48c2996699/assets/algotype.svg" alt="Explore Algotype"></a>
-  <a href="https://github.com/violatedheart/Keyguard"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/f5c9756ecb25c933a6d86fbeb29ffb48c2996699/assets/keyguard.svg" alt="Keyguard in progress"></a>
+  <a href="https://github.com/violatedheart/procscape"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/9d43cdfb163d2443421cb2f3fabf962ee6b8556d/assets/procscape-badge.png" alt="Explore ProcScape" width="320" height="74"></a>
+  <a href="https://github.com/violatedheart/algotype"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/9d43cdfb163d2443421cb2f3fabf962ee6b8556d/assets/algotype-badge.png" alt="Explore Algotype" width="320" height="74"></a>
+  <a href="https://github.com/violatedheart/Keyguard"><img src="https://raw.githubusercontent.com/violatedheart/violatedheart/9d43cdfb163d2443421cb2f3fabf962ee6b8556d/assets/keyguard-badge.png" alt="Keyguard in progress" width="320" height="74"></a>
 </p>
 
 <p align="center">
